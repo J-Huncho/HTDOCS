@@ -1,2 +1,0 @@
-# HTDOCS
-PHP Exercises
