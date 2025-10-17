@@ -78,6 +78,7 @@
       <li><a href="Simple Grading System.php">Simple Grading System</a></li>
       <li><a href="Currency Converter.php">Currency Converter</a></li>
       <li><a href="Travel Cost Estimator.php">Travel Cost Estimator</a></li>
+      <li><a href="Temperature Converter.php">Temperature Converter</a></li>
     </ul>
   </div>
 </body>

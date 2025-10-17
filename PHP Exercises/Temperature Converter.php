@@ -58,7 +58,7 @@ button:hover {
       echo "<p><strong>$celsius °C = $fahrenheit °F</strong></p>";
   }
   ?>
-  <a href="index.html" class="back">⬅ Back to Exercises</a>
+  <a href="index.php" class="back">⬅ Back to Exercises</a>
 </div>
 </body>
 </html>
